@@ -1,16 +1,13 @@
-## Ignite Feed
-<img src="https://github.com/Tharlys10/ignite-feed/blob/main/.github/assets/cover_page.png?raw=true" align="center" />
+# Ignite Feed
 
-Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma mídia social simples onde você pode comentar, deletar e aplaudir (botão "Aplaudir") para interagir no aplicativo!
+Durante o desafio, utilizamos os conceitos básicos do React desenvolvendo um feed para uma rede social. Podemos comentar, deletar e curtir (botão "Aplaudir") para interação no aplicativo.
 
-### 🛠️ Nesse projeto foi utilizado
-
-* Vite
-* CSS Modules
-* Typescript
-* React
-
-<br />
+## 🛠️ Tecnologias utilizadas
+- HTML
+- CSS 
+- React
+- Typescript
+- Vite
 
 ## 🚧 Layout
 
@@ -18,13 +15,9 @@ Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
-## :memo: Licença
+## 🎬 Imagens / Vídeos 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
+![tela-ignitefeed](https://github.com/Mctks2/Ignite-Feed/assets/62295808/e117245f-54b5-468c-845f-e12bbfb6e9e8)
 
----
 
-Feito com ♥ by JulioAmaral007
-
-&nbsp;
 
